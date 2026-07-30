@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Platform+Engineer;Azure+%E2%80%A2+DevOps+%E2%80%A2+AI+Infrastructure;Building+Cloud-Native+Platforms;Engineering+Modern+Infrastructure"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Cloud+Platform+Engineer;Azure+%E2%80%A2+AWS+%E2%80%A2+Google+Cloud;Kubernetes+%E2%80%A2+Docker+%E2%80%A2+Terraform;DevOps+%E2%80%A2+CI%2FCD+%E2%80%A2+AI+Infrastructure;Building+Scalable+Cloud-Native+Platforms"/>
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 > Cloud Engineering • DevOps • AI Infrastructure
 
-I design and build scalable cloud-native systems using Azure, Kubernetes, Docker, Terraform, CI/CD, and modern AI technologies with a focus on automation, platform engineering, and intelligent infrastructure.
+I build scalable cloud-native platforms using Azure, Kubernetes, Docker, Terraform, CI/CD, and modern AI technologies, with a focus on automation, platform engineering, and intelligent infrastructure.
 
 <br>
 
@@ -110,3 +110,6 @@ Exploring intelligent systems that integrate cloud infrastructure with modern AI
 
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MdYameenS/MdYameenS/main/assets/floating-clouds.svg" width="700" alt="Floating Cloud Providers"/>
+</div>
