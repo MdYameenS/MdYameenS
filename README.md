@@ -45,17 +45,18 @@ Building reliable cloud infrastructure, scalable DevOps platforms, and AI-native
 
 <td width="33%" valign="top">
 
-### ☁ Cloud
+### ☁️ Cloud
 
-Designing modern cloud-native infrastructure with a focus on scalability, security, and reliability.
+Building secure, scalable, and resilient multi-cloud infrastructure across Azure, AWS, and Google Cloud using cloud-native best practices.
 
 **Core Technologies**
 
-- Azure
-- Azure Kubernetes Service
-- Azure Container Registry
-- Virtual Networking
-- Identity & Access Management
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Multi-Cloud Architecture
+- Cloud Networking
+- Identity & Access Management (IAM)
 
 </td>
 
@@ -104,16 +105,10 @@ Exploring intelligent systems that integrate cloud infrastructure with modern AI
 
 ---
 
-
-
----
-
-
-
 <div align="center">
 
-### ☁ Azure &nbsp;&nbsp;•&nbsp;&nbsp; AWS &nbsp;&nbsp;•&nbsp;&nbsp; Google Cloud
-
-*Building Intelligent Cloud Platforms*
+### ☁ Azure &nbsp;&nbsp;•&nbsp;&nbsp; AWS &nbsp;&nbsp;•&nbsp;&nbsp; GCP
 
 </div>
+
+---
