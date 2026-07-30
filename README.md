@@ -1,54 +1,134 @@
 <div align="center">
 
-# Cloud Infrastructure
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&text=MOHAMMED%20YAMEEN&fontAlign=50&fontAlignY=38&fontSize=56&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=6,12,20,24,30"/>
 
-Modern cloud-native systems built with Azure, Kubernetes, Terraform and AI.
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Platform+Engineer;Azure+%E2%80%A2+DevOps+%E2%80%A2+AI+Infrastructure;Building+Cloud-Native+Platforms;Engineering+Modern+Infrastructure"/>
+
+<br><br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/md-yameen-915559200">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/MdYameenS">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
-<table>
+---
+
+# Building Intelligent Cloud Platforms.
+
+> Cloud Engineering • DevOps • AI Infrastructure
+
+I design and build scalable cloud-native systems using Azure, Kubernetes, Docker, Terraform, CI/CD, and modern AI technologies with a focus on automation, platform engineering, and intelligent infrastructure.
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,linux,bash,python,git,vscode"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Engineering Focus
+
+Building reliable cloud infrastructure, scalable DevOps platforms, and AI-native systems that simplify development, automate operations, and accelerate innovation.
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
-<td width="33%">
 
-### Cloud
+<td width="33%" valign="top">
 
-Azure
+### ☁ Cloud
 
-Networking
+Designing modern cloud-native infrastructure with a focus on scalability, security, and reliability.
 
-Security
+**Core Technologies**
 
-Identity
-
-</td>
-
-<td width="33%">
-
-### Platform
-
-Docker
-
-Kubernetes
-
-Terraform
-
-GitHub Actions
+- Azure
+- Azure Kubernetes Service
+- Azure Container Registry
+- Virtual Networking
+- Identity & Access Management
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### Intelligence
+### ⚙ Platform
 
-Agentic AI
+Automating software delivery through Infrastructure as Code and modern CI/CD pipelines.
 
-MCP
+**Core Technologies**
 
-LangGraph
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Linux
 
-Python
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AI
+
+Exploring intelligent systems that integrate cloud infrastructure with modern AI workflows.
+
+**Core Technologies**
+
+- Agentic AI
+- Model Context Protocol (MCP)
+- LangGraph
+- LLMOps
+- Python
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+> **Building infrastructure that is scalable, automated, observable, and AI-ready.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,linux,bash,python,git,vscode"/>
+
+</div>
+
+---
+
+<div align="center">
+
