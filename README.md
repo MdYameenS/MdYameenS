@@ -24,7 +24,10 @@ I build scalable cloud-native platforms using Azure, Kubernetes, Docker, Terrafo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,linux,bash,python,git,vscode"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws" height="48" />
+<img src="https://skillicons.dev/icons?i=azure" height="48" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" height="48" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux,bash,python,git" height="48" />
 
 </div>
 
@@ -105,10 +108,4 @@ Exploring intelligent systems that integrate cloud infrastructure with modern AI
 
 ---
 
-<div align="center">
 
-### ☁ Azure &nbsp;&nbsp;•&nbsp;&nbsp; AWS &nbsp;&nbsp;•&nbsp;&nbsp; GCP
-
-</div>
-
----
