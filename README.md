@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋 I'm MD Yameen</h1>
+# 💫 About Me:
+🔭 I'm currently working on **Cloud-Native Applications, Azure Infrastructure, Kubernetes (AKS), Docker, Terraform, CI/CD Pipelines, and Agentic AI Systems**<br><br>👯 I'm looking to collaborate on **Open Source Cloud Projects, Kubernetes Operators, AI Infrastructure, MCP Servers, Platform Engineering & DevOps Automation**<br><br>🤝 I'm looking for help with **Large-Scale Kubernetes, Multi-Cloud Architecture, AI Agents, Model Context Protocol (MCP), Cloud Security & CNCF Projects**<br><br>🌱 I'm currently learning **Azure Advanced Services, CKA, Terraform Enterprise, GitHub Actions, Agentic AI, LangGraph, LangChain, MCP, LLMOps & AI Infrastructure**<br><br>💬 Ask me about **Azure • AWS • Docker • Kubernetes • Terraform • GitHub Actions • Linux • CI/CD • DevOps • Agentic AI • MCP • Cloud Architecture**<br><br>⚡ Fun fact: **I automate the boring stuff so I can build intelligent cloud platforms that scale themselves. ☁️🚀**
 
-<h3 align="center">
-Building Intelligent Systems for the Cloud Era.
-</h3>
 
-<p align="center">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md Yameen) 
 
-☁️ Cloud • ⚙️ DevOps • 🤖 AI • 🛒 E-commerce
-
-</p>
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MdYameens&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MdYameens&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MdYameens&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=MdYameens&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> **From Infrastructure to Intelligence.**
-
-I build secure cloud infrastructure, automate complex workflows with AI, and develop scalable e-commerce solutions.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
