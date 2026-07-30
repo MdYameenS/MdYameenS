@@ -8,25 +8,7 @@
 
 <br><br>
 
-<p align="center">
 
-<a href="https://www.linkedin.com/in/md-yameen-915559200">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/MdYameenS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=white"/>
-</a>
-
-</p>
 
 </div>
 
@@ -122,13 +104,9 @@ Exploring intelligent systems that integrate cloud infrastructure with modern AI
 
 ---
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,linux,bash,python,git,vscode"/>
-
-</div>
 
 ---
 
-<div align="center">
+
 
