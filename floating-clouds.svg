@@ -1,0 +1,327 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="220"
+     viewBox="0 0 1200 220">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+
+    <radialGradient id="glowBlue">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowPurple">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <!-- Blue Glow -->
+
+  <circle cx="250" cy="110" r="120" fill="url(#glowBlue)">
+      <animate attributeName="cy"
+               values="110;100;110"
+               dur="6s"
+               repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Purple Glow -->
+
+  <circle cx="930" cy="100" r="100" fill="url(#glowPurple)">
+      <animate attributeName="cy"
+               values="100;115;100"
+               dur="8s"
+               repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Floating Bubble -->
+
+  <circle cx="160" cy="150" r="8" fill="#38BDF8" opacity="0.75">
+      <animate attributeName="cy"
+               values="150;120;150"
+               dur="5s"
+               repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1040" cy="65" r="10" fill="#7C3AED" opacity="0.7">
+      <animate attributeName="cy"
+               values="65;90;65"
+               dur="6s"
+               repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="640" cy="175" r="6" fill="#60A5FA" opacity="0.7">
+      <animate attributeName="cy"
+               values="175;145;175"
+               dur="4s"
+               repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Footer Text -->
+
+  <text x="600"
+        y="200"
+        text-anchor="middle"
+        fill="#94A3B8"
+        font-size="18"
+        font-family="Segoe UI, Arial, sans-serif">
+
+      Building Cloud Without Limits
+
+  </text>
+
+</svg>
+
+  <!-- ========================= -->
+  <!-- Azure Floating Node -->
+  <!-- ========================= -->
+
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;0 -8;0 0"
+      dur="5s"
+      repeatCount="indefinite"/>
+
+    <!-- Glow -->
+
+    <circle
+      cx="250"
+      cy="95"
+      r="36"
+      fill="#0EA5E9"
+      opacity="0.15"/>
+
+    <!-- Cloud -->
+
+    <g fill="#38BDF8">
+
+      <circle cx="235" cy="96" r="14"/>
+      <circle cx="250" cy="88" r="18"/>
+      <circle cx="268" cy="98" r="13"/>
+
+      <rect
+        x="228"
+        y="98"
+        width="48"
+        height="14"
+        rx="7"/>
+
+    </g>
+
+    <!-- Label -->
+
+    <text
+      x="252"
+      y="140"
+      text-anchor="middle"
+      fill="#E2E8F0"
+      font-size="15"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-weight="600">
+
+      Azure
+
+    </text>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- Azure Floating Node -->
+  <!-- ========================= -->
+
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;0 -8;0 0"
+      dur="5s"
+      repeatCount="indefinite"/>
+
+    <!-- Glow -->
+
+    <circle
+      cx="250"
+      cy="95"
+      r="36"
+      fill="#0EA5E9"
+      opacity="0.15"/>
+
+    <!-- Cloud -->
+
+    <g fill="#38BDF8">
+
+      <circle cx="235" cy="96" r="14"/>
+      <circle cx="250" cy="88" r="18"/>
+      <circle cx="268" cy="98" r="13"/>
+
+      <rect
+        x="228"
+        y="98"
+        width="48"
+        height="14"
+        rx="7"/>
+
+    </g>
+
+    <!-- Label -->
+
+    <text
+      x="252"
+      y="140"
+      text-anchor="middle"
+      fill="#E2E8F0"
+      font-size="15"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-weight="600">
+
+      Azure
+
+    </text>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- Google Cloud Floating Node -->
+  <!-- ========================= -->
+
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;0 -10;0 0"
+      dur="7s"
+      repeatCount="indefinite"/>
+
+    <!-- Glow -->
+
+    <circle
+      cx="950"
+      cy="105"
+      r="38"
+      fill="#34A853"
+      opacity="0.15"/>
+
+    <!-- Cloud -->
+
+    <g>
+
+      <circle cx="935" cy="108" r="14" fill="#4285F4"/>
+      <circle cx="950" cy="98" r="18" fill="#EA4335"/>
+      <circle cx="968" cy="110" r="13" fill="#FBBC05"/>
+
+      <rect
+        x="928"
+        y="110"
+        width="48"
+        height="14"
+        rx="7"
+        fill="#34A853"/>
+
+    </g>
+
+    <!-- Label -->
+
+    <text
+      x="952"
+      y="154"
+      text-anchor="middle"
+      fill="#E2E8F0"
+      font-size="15"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-weight="600">
+
+      Google Cloud
+
+    </text>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- Animated Connection Lines -->
+  <!-- ========================= -->
+
+  <line x1="285" y1="98" x2="565" y2="78"
+        stroke="#38BDF8"
+        stroke-width="1.5"
+        opacity="0.25">
+    <animate attributeName="opacity"
+             values="0.15;0.45;0.15"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </line>
+
+  <line x1="635" y1="78" x2="915" y2="105"
+        stroke="#60A5FA"
+        stroke-width="1.5"
+        opacity="0.25">
+    <animate attributeName="opacity"
+             values="0.15;0.45;0.15"
+             dur="5s"
+             repeatCount="indefinite"/>
+  </line>
+
+  <!-- ========================= -->
+  <!-- Floating Particles -->
+  <!-- ========================= -->
+
+  <g fill="#FFFFFF" opacity="0.75">
+
+    <circle cx="120" cy="170" r="2">
+      <animate attributeName="cy" values="170;130;170" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="330" cy="55" r="2">
+      <animate attributeName="cy" values="55;90;55" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="510" cy="155" r="2">
+      <animate attributeName="cy" values="155;120;155" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="720" cy="60" r="2">
+      <animate attributeName="cy" values="60;90;60" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="880" cy="165" r="2">
+      <animate attributeName="cy" values="165;135;165" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1080" cy="70" r="2">
+      <animate attributeName="cy" values="70;100;70" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- Bottom Caption -->
+  <!-- ========================= -->
+
+  <text
+      x="600"
+      y="205"
+      text-anchor="middle"
+      fill="#CBD5E1"
+      font-size="18"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-weight="600">
+
+      Azure • AWS • Google Cloud
+
+  </text>
+
