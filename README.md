@@ -111,5 +111,9 @@ Exploring intelligent systems that integrate cloud infrastructure with modern AI
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MdYameenS/MdYameenS/main/assets/floating-clouds.svg" width="700" alt="Floating Cloud Providers"/>
+
+### ☁ Azure &nbsp;&nbsp;•&nbsp;&nbsp; AWS &nbsp;&nbsp;•&nbsp;&nbsp; Google Cloud
+
+*Building Intelligent Cloud Platforms*
+
 </div>
